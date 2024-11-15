@@ -1,9 +1,9 @@
-package com.github.bugix.meowplugin.services
+package ch.catnip.meow.services
 
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
-import com.github.bugix.meowplugin.MyBundle
+import ch.catnip.meow.MyBundle
 
 @Service(Service.Level.PROJECT)
 class MyProjectService(project: Project) {

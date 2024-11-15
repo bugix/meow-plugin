@@ -1,4 +1,4 @@
-package com.github.bugix.meowplugin
+package ch.catnip.meow
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

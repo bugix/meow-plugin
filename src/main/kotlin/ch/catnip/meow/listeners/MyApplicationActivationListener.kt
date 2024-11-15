@@ -1,4 +1,4 @@
-package com.github.bugix.meowplugin.listeners
+package ch.catnip.meow.listeners
 
 import com.intellij.openapi.application.ApplicationActivationListener
 import com.intellij.openapi.diagnostic.thisLogger
